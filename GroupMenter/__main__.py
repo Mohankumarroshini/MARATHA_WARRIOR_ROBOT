@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey there! My name is Group Menter.
+Hey there! My name is ⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱.
 I'm here to help you manage your groups!
 
 Hit /help to find out more about how to use me to my full potential.
@@ -83,15 +83,15 @@ Hit /help to find out more about how to use me to my full potential.
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD TO YOUR GROUP ➕️", url="https://t.me/GroupMenterRobot?startgroup=true"),
+            text="⚜ ADD TO YOUR GROUP ⚜", url="https://t.me/MARATHA_WARRIOR_ROBOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="Updates", url="https://t.me/GroupMenterUpdates"),
-        InlineKeyboardButton(text="Support", url="https://t.me/GroupMenterGroup"),
+        InlineKeyboardButton(text="⚜ UPDATES ⚜", url="https://t.me/MARATH_IWARRIORS"),
+        InlineKeyboardButton(text="⚜ SUPPORT ⚜", url="https://t.me/MARATHIWARRIORS"),
     ],
     [
         InlineKeyboardButton(
-            text="Commands ❔", callback_data="help_back"
+            text="⚜ HELP & COMMAND ⚜", callback_data="help_back"
         ),
     ],
 ]
@@ -116,7 +116,7 @@ Your donation might also me get me a new feature or two, which I wasn't able to 
 
 All the fund would be put into my services such as database, storage and hosting!.
 
-You Can donate to this bot via [PayPal](paypal.me/vivektvp) Or [Buy Me a Coffee.](https://ko-fi.com/VIVEKTP)"""
+You Can donate to this bot via COntacting [TANAJI](https://t.me/its_rocky_19)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -361,7 +361,7 @@ def groupmenter_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "groupmenter":
         query.message.edit_text(
-            text=""" 🤖 I'm *Group Menter*, a powerful group management bot built to help you manage your group easily.
+            text=""" 🤖 I'm *⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱*, a powerful group management bot built to help you manage your group easily.
                  
 ❍ I can restrict users.
                  
@@ -375,8 +375,8 @@ def groupmenter_about_callback(update: Update, context: CallbackContext):
                  
 ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Group Menter's licensed under the GNU General Public License v3.0_
-                 Here is the [💾Repository](https://github.com/TeamGroupMenter/GroupMenter).
-                 If you have any question about Group Menter, let us know at @GroupMenterUpdates.""",
+                 Here is the [DEVELOPER](https://t.me/its_rocky_19).
+                 If you have any question about Group Menter, let us know at @MARATHIWARRIORS.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -402,8 +402,8 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *Group Menter*
-                 \nHere is the [Source Code](https://github.com/TeamGroupMenter/GroupMenter) .""",
+            text=""" Hi..🤗 I'm *⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱*
+                 \nHere is the [DEVELOPER](https://t.me/its_rocky_19) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
