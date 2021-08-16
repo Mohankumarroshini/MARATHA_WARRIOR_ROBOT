@@ -98,7 +98,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hey There! My name is Group Menter.
+Hey There! My name ⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱 .
 I'm here to help you manage your groups!
 
 Commands available:
