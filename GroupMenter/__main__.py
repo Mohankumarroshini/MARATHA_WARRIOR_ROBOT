@@ -104,7 +104,7 @@ I'm here to help you manage your groups!
 Commands available:
 × /start: Start the bot
 × /help: Give's you this message.
-× /donate: Information related on how to support my creator!
+
 
 All commands can either be used with / OR !.
 """
