@@ -5,7 +5,7 @@ from GroupMenter import pbot
 from GroupMenter.pyrogramee.errors import capture_err
 
 
-__mod_name__ = "GITHHUB"
+__mod_name__ = "📜GITHHUB📜"
 
 __help__ = """
 I will give information about github profile 
