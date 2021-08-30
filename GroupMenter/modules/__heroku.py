@@ -191,7 +191,7 @@ async def _(dyno):
         dyno.chat_id,
         "logs.txt",
         reply_to=dyno.id,
-        caption="GroupMenter Bot Logz.",
+        caption=" Bot Logs.",
     )
 
     await asyncio.sleep(5)
