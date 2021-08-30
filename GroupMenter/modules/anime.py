@@ -531,7 +531,7 @@ def kayo(update: Update, context: CallbackContext):
     site_search(update, context, "kayo")
 
 
-__help__ = """
+__help__ = "INFO ABOUT TANAJI""
 🤩 SOME INFO ABOUT [TANAJI](https://t.me/XD_PERSON) :
 ○ THE D.O.B OF TANAJI IS 19-08-2003.
 ○ [TANAJI](https://t.me/XD_PERSON) IS 12'TH PASSED OUT STUDENT FROM [M.U.M. UDGIR](https://www.mumu.edu.in/) IN PCM GROUP.
