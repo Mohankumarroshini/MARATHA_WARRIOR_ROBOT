@@ -275,13 +275,13 @@ async def apk(e):
         await e.reply("Exception Occured:- " + str(err))
 
 
-__mod_name__ = "GOOGLE"
+__mod_name__ = "🤓GOOGLE🤓"
 
 __help__ = """
  ❍ /google <text>*:* Perform a google search
  ❍ /img <text>*:* Search Google for images and returns them\nFor greater no. of results specify lim, For eg: `/img hello lim=10`
  ❍ /app <appname>*:* Searches for an app in Play Store and returns its details.
  ❍ /reverse: Does a reverse image search of the media which it was replied to.
- ❍ GroupMenter <query>*:* GroupMenter answers the query
-  💡Ex: `Masha where is India?`
+ 
+  💡Ex: ` where is India?`
 """
