@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey there![🙋‍♂️](https://telegra.ph/file/dcd5ab96c9610d2bbeb40.jpg), My name is ⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱.
+Hey there![🙋‍♂️](https://telegra.ph/file/333e225107973341aa4f9.jpg), My name is ⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱.
 I'm here to help you manage your groups!
 
 Hit /help to find out more about how to use me to my full potential.
@@ -98,25 +98,17 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hey There! My name ⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱 .
+Hey [🙋‍♂️](https://telegra.ph/file/333e225107973341aa4f9.jpg) My name ⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱 .
 I'm here to help you manage your groups!
 
 Commands available:
 × /start: Start the bot
 × /help: Give's you this message.
-
-
 All commands can either be used with / OR !.
 """
 
 
-DONATE_STRING = """Hey Thanks for your thought of donating me!
-When you donate, all the fund goes towards my development which makes on fast and responsive.
-Your donation might also me get me a new feature or two, which I wasn't able to get due to server limitations.
-
-All the fund would be put into my services such as database, storage and hosting!.
-
-You Can donate to this bot via COntacting [TANAJI](https://t.me/its_rocky_19)"""
+DONATE_STRING = """🤪 FREE FOR ALWAYS 😃"""
 
 IMPORTED = {}
 MIGRATEABLE = []
