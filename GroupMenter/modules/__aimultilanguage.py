@@ -120,7 +120,7 @@ async def _(event):
    except CFError as e:
            print(e)
   elif "Ann" in result:
-   pro = "Yeah, My name is GroupMenter"
+   pro = "Yeah, My Master Is Tanaji"
    try:
       async with tbot.action(event.chat_id, 'typing'):
            await event.reply(pro)
