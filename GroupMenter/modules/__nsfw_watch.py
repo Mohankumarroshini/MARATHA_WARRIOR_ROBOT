@@ -111,9 +111,9 @@ async def ws(event):
 
 
 __help__ = """
-Group Menter can protect your group from NSFW senders
+I can protect your group from NSFW senders
  ❍ /addnsfw*:* Adds The Group to nsfw Watch List
  ❍ /rmnsfw*:* Removes The Group From nsfw Watch List
 """
 
-__mod_name__ = "NSFW"
+__mod_name__ = "🚨NSFW🚨"
