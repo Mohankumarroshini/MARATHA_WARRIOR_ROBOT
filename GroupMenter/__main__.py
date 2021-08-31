@@ -90,12 +90,16 @@ buttons = [
         InlineKeyboardButton(text="🛡 SUPPORT 🛡", url="https://t.me/MARATHIWARRIORS"),
     ],
     [
+       InlinekeybordButton(
+              text"👨‍💻 MANAGER 👨‍💻", url="https://t.me/tana9373"),
+    ],
+    [
         InlineKeyboardButton(
             text="🙋‍♂️ HELP & COMMAND 🙋‍♂️", callback_data="help_back"
         ),
     ],
 ]
-[Button.url("👨‍💻 MANAGER 👨‍💻', 'https://t.me/tana9373')]
+
 
 HELP_STRINGS = """
 Hey [🙋‍♂️](https://telegra.ph/file/333e225107973341aa4f9.jpg) My name ⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱 .
