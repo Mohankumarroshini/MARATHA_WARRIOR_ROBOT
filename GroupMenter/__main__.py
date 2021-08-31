@@ -94,6 +94,10 @@ buttons = [
             text="🙋‍♂️ HELP & COMMAND 🙋‍♂️", callback_data="help_back"
         ),
     ],
+    [
+        InlineKeyboardButton(text="🖲 UPDATES 🖲", url="https://t.me/MARATH_IWARRIORS"),
+        InlineKeyboardButton(text="🛡 SUPPORT 🛡", url="https://t.me/MARATHIWARRIORS"),
+    ],
 ]
 
 
