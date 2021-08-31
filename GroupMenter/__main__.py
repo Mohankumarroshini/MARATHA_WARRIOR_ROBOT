@@ -95,7 +95,7 @@ buttons = [
         ),
     ],
 ]
-[Button.url("👨‍💻 MANAGER 👨‍💻" "https://t.me/tana9373")]
+[Button.url("👨‍💻 MANAGER 👨‍💻', 'https://t.me/tana9373')]
 
 HELP_STRINGS = """
 Hey [🙋‍♂️](https://telegra.ph/file/333e225107973341aa4f9.jpg) My name ⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱 .
