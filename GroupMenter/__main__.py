@@ -86,8 +86,8 @@ buttons = [
             text="😹 ADD TO YOUR GROUP 😹", url="https://t.me/MARATHA_WARRIOR_ROBOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="🖲 UPDATES 🖲", url="https://t.me/MARATH_IWARRIORS"),
-        InlineKeyboardButton(text="🛡 SUPPORT 🛡", url="https://t.me/MARATHIWARRIORS"),
+        InlineKeyboardButton(text="✪Owner✪", url="https://t.me/XD_PERSON"),
+        InlineKeyboardButton(text="👿 CLAN 👿", url="https://t.me/MARATHA_DHASHAT"),
     ],
     [
         InlineKeyboardButton(
