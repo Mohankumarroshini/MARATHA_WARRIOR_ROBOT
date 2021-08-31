@@ -83,15 +83,15 @@ Hit /help to find out more about how to use me to my full potential.
 buttons = [
     [
         InlineKeyboardButton(
-            text="⚜ ADD TO YOUR GROUP ⚜", url="https://t.me/MARATHA_WARRIOR_ROBOT?startgroup=true"),
+            text="😹 ADD TO YOUR GROUP 😹", url="https://t.me/MARATHA_WARRIOR_ROBOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="⚜ UPDATES ⚜", url="https://t.me/MARATH_IWARRIORS"),
-        InlineKeyboardButton(text="⚜ SUPPORT ⚜", url="https://t.me/MARATHIWARRIORS"),
+        InlineKeyboardButton(text="🖲 UPDATES 🖲", url="https://t.me/MARATH_IWARRIORS"),
+        InlineKeyboardButton(text="🛡 SUPPORT 🛡", url="https://t.me/MARATHIWARRIORS"),
     ],
     [
         InlineKeyboardButton(
-            text="⚜ HELP & COMMAND ⚜", callback_data="help_back"
+            text="🙋‍♂️ HELP & COMMAND 🙋‍♂️", callback_data="help_back"
         ),
     ],
 ]
