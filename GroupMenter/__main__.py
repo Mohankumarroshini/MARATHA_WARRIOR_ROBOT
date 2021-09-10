@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey there![🙋‍♂️](https://telegra.ph/file/333e225107973341aa4f9.jpg), My name is ⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱.
+Hey there![🙋‍♂️](https://telegra.ph/file/423a1a13b06d1e48e8c98.jpg), My name is ✰ 𝐊ʀ𝖆𝖙ᴏ𝐬 𝐏ʀ𝖔𝕭ᴏ𝐭 ✰
 I'm here to help you manage your groups!
 
 Hit /help to find out more about how to use me to my full potential.
@@ -83,11 +83,11 @@ Hit /help to find out more about how to use me to my full potential.
 buttons = [
     [
         InlineKeyboardButton(
-            text="😹 ADD TO YOUR GROUP 😹", url="https://t.me/MARATHA_WARRIOR_ROBOT?startgroup=true"),
+            text="😹 ADD TO YOUR GROUP 😹", url="https://t.me/Kratos_probot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="✪Owner✪", url="https://t.me/XD_PERSON"),
-        InlineKeyboardButton(text="👿 CLAN 👿", url="https://t.me/MARATHA_DHASHAT"),
+        InlineKeyboardButton(text="✪Owner✪", url="https://t.me/My_Dear_lightbright"),
+        
     ],
     [
         InlineKeyboardButton(
@@ -95,14 +95,14 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🖲 UPDATES 🖲", url="https://t.me/MARATH_IWARRIORS"),
-        InlineKeyboardButton(text="🛡 SUPPORT 🛡", url="https://t.me/MARATHIWARRIORS"),
+        InlineKeyboardButton(text="🖲 UPDATES 🖲", url="https://t.me/Athena_updates"),
+        InlineKeyboardButton(text="🛡 SUPPORT 🛡", url="https://t.me/Athena_support"),
     ],
 ]
 
 
 HELP_STRINGS = """
-Hey [🙋‍♂️](https://telegra.ph/file/333e225107973341aa4f9.jpg) My name ⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱 .
+Hey [🙋‍♂️](https://telegra.ph/file/423a1a13b06d1e48e8c98.jpg) My name ✰ 𝐊ʀ𝖆𝖙ᴏ𝐬 𝐏ʀ𝖔𝕭ᴏ𝐭 ✰.
 I'm here to help you manage your groups!
 
 Commands available:
@@ -398,8 +398,8 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *⚔️ 🚩𝗠 𝗔 𝗥 𝗔 𝗧 𝗛 𝗔 ✭ 𝗪 𝗔 𝗥 𝗥 𝗜 𝗢 𝗥 🚩 𝐌𝐀𝐍𝐀𝐆𝐄𝐑  🔱*
-                 \nHere is the [DEVELOPER](https://t.me/its_rocky_19) .""",
+            text=""" Hi..🤗 I'm *✰ 𝐊ʀ𝖆𝖙ᴏ𝐬 𝐏ʀ𝖔𝕭ᴏ𝐭 ✰*
+                 \nHere is the [DEVELOPER](https://t.me/my_dear_lightbright) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
