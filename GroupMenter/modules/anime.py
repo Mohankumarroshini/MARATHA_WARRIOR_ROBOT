@@ -532,10 +532,7 @@ def kayo(update: Update, context: CallbackContext):
 
 
 __help__ = """
-🤩 SOME INFO ABOUT [TANAJI](https://t.me/XD_PERSON) :
-○ THE D.O.B OF TANAJI IS 19-08-2003.
-○ [TANAJI](https://t.me/XD_PERSON) IS 12'TH PASSED OUT STUDENT FROM [M.U.M. UDGIR](https://www.mumu.edu.in/) IN PCM GROUP.
-○ TANAJI IS AN NOOB CODER 🤓....
+
 """
 
 ANIME_HANDLER = DisableAbleCommandHandler("anime", anime)
@@ -556,7 +553,7 @@ dispatcher.add_handler(KAIZOKU_SEARCH_HANDLER)
 dispatcher.add_handler(KAYO_SEARCH_HANDLER)
 dispatcher.add_handler(UPCOMING_HANDLER)
 
-__mod_name__ = "🛡TANAJI🛡"
+__mod_name__ = "Anime"
 __command_list__ = [
     "anime",
     "manga",
